@@ -88,6 +88,3 @@ Conclusion
 
 This project demonstrates a complete full-stack application with role-based access control, real-time task tracking, and a structured client-server architecture. It showcases practical implementation of MERN stack technologies and follows a scalable design approach suitable for real-world applications.
 
-Author
-
-Nirupa
